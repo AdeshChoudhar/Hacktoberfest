@@ -1,3 +1,4 @@
-# Hacktoberfest
+# HACKTOBERFEST
 
-This repository contains yearwise contributions made by me in Hacktoberfest.
+## Links to CONTRIBUTIONS.md
+- ### [2020](2020/CONTRIBUTIONS.md)
